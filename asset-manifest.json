@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/ts-quiz/static/js/main.3481cc99.js",
+    "static/media/background.jpeg": "/ts-quiz/static/media/background.28bb2e66b64fa3065e4f.jpeg",
+    "index.html": "/ts-quiz/index.html",
+    "main.3481cc99.js.map": "/ts-quiz/static/js/main.3481cc99.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3481cc99.js"
+  ]
+}
